@@ -1,4 +1,4 @@
-👋 Hey there, I
+👋 Hey there, I am Shivam Deshmukh
 🎓 Integrated MCA Student | 💻 C Programming Learner | 📐 Mathematics Enthusiast | 🌱 Lifelong Learner
 
 Welcome to my GitHub profile! 🚀
@@ -27,7 +27,7 @@ My programming journey is just getting started.
 Currently, I'm focusing on understanding the fundamentals rather than simply learning syntax. I want to understand why and how things work, solve problems on my own, and gradually develop strong programming logic.
 
 Currently Working With
-<p> <img src="xyz.ppt this is panda image"/> </p>
+<p> <img src="https://media.istockphoto.com/id/523761634/photo/cute-panda-bear-climbing-in-tree.jpg?s=612x612&w=0&k=20&c=TxsmORsbuY1LpxQsc6T8fpWJo7lBwncciYhroAr8rXI="/> </p>
 My Current Focus
 Programming Fundamentals
         ↓
