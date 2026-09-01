@@ -1,318 +1,182 @@
-👋 Hey there, I am Shivam Deshmukh
-🎓 Integrated MCA Student | 💻 C Programming Learner | 📐 Mathematics Enthusiast | 🌱 Lifelong Learner
+👋 Hey, I'm Shivam Deshmukh
 
-Welcome to my GitHub profile! 🚀
+<h3 align="center">
+🎓 Integrated MCA Student at IIPS • 💻 Aspiring Programmer • 🧠 Problem Solver
+</h3><p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Welcome+to+my+coding+journey!+🚀;Learning+C+Programming+one+step+at+a+time...;Exploring+the+world+of+Mathematics+📐;Improving+my+Problem+Solving+skills+🧠;Keep+Learning.+Keep+Building.+Keep+Improving.;Future+Programmer+in+Progress...+💻" alt="Typing SVG" />
+</p><br><p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="Programmer Coding"/>
+</p>---
 
-I'm a first-semester Integrated MCA student at IIPS, beginning my journey into the world of programming, computer science, and technology.
+🚀 About Me
 
-I have a special interest in Mathematics, because I enjoy logic, patterns, and problem-solving. Alongside mathematics, I'm currently exploring C programming and building a strong foundation in programming fundamentals.
+#include <stdio.h>
 
-I'm still at the beginning of my journey, but I'm curious, consistent, and always ready to learn something new. 🌱
+int main() {
 
-🧑‍💻 About Me
-🎓 Currently pursuing Integrated MCA
-🏫 Student at IIPS
-📚 Currently in 1st Semester
-💻 Learning C Programming
-📐 Interested in Mathematics
-🧠 Enjoy logical thinking and problem solving
-🌱 Exploring the fundamentals of Computer Science
-🚀 Interested in learning new technologies
-🔍 Curious about how things work behind the scenes
-📈 Focused on improving my skills step by step
-💻 My Programming Journey
+    char name[] = "Shivam Deshmukh";
 
-My programming journey is just getting started.
+    char student[] = "Integrated MCA";
+    char institute[] = "IIPS";
+    int semester = 1;
 
-Currently, I'm focusing on understanding the fundamentals rather than simply learning syntax. I want to understand why and how things work, solve problems on my own, and gradually develop strong programming logic.
+    char learning[] = "C Programming";
+    char interest[] = "Mathematics";
+    char focus[] = "Problem Solving";
 
-Currently Working With
-<p> <img src="https://media.istockphoto.com/id/523761634/photo/cute-panda-bear-climbing-in-tree.jpg?s=612x612&w=0&k=20&c=TxsmORsbuY1LpxQsc6T8fpWJo7lBwncciYhroAr8rXI="/> </p>
-My Current Focus
-Programming Fundamentals
-        ↓
-C Programming
-        ↓
-Problem Solving
-        ↓
-Data Structures & Algorithms
-        ↓
-Projects
-        ↓
-Advanced Computer Science
+    char mindset[] = "Keep Learning";
+    char goal[] = "Become a Better Programmer";
 
-📐 Why I Like Mathematics
+    printf("The journey has just begun... 🚀");
 
-Mathematics is one of the areas that interests me the most.
+    return 0;
+}
 
-I enjoy mathematics because it teaches me to:
-
-Think logically
-Break complex problems into smaller parts
-Identify patterns
-Approach problems systematically
-Think about multiple possible solutions
-Be patient when solving difficult problems
-
-I believe mathematical thinking can be very useful in programming and computer science.
-
-🛠️ Skills & Knowledge
-💻 Programming
-C — Beginner
-Variables & Data Types
-Operators
-Conditional Statements
-Loops
-Functions
-Arrays
-Basic Problem Solving
-🧠 Computer Science
-
-Currently developing my understanding of:
-
-Programming Fundamentals
-Algorithms & Logic
-Computational Thinking
-Basic Computer Science Concepts
-📐 Mathematics
-
-Interested in:
-
-Mathematical Problem Solving
-Logic
-Patterns
-Analytical Thinking
-
-🚧 I'm continuously learning, so this section will keep growing.
-
-🌱 Currently Learning
-
-I'm currently working on strengthening my fundamentals.
-
-📌 C Programming
-📌 Programming Logic
-📌 Problem Solving
-📌 Mathematics
-📌 Computer Science Fundamentals
-📌 Basic Algorithms
-
-
-My priority right now is to build a strong foundation before moving toward more advanced topics.
-
-🎯 My Goals
-Short-Term Goals
-✅ Build a strong foundation in C
-📚 Improve programming logic
-🧠 Solve more programming problems
-📐 Improve mathematical problem-solving
-💻 Build beginner-level projects
-🔍 Understand computer science fundamentals
-Long-Term Goals
-🚀 Become a strong programmer
-🧩 Master Data Structures & Algorithms
-🌐 Learn multiple programming languages
-🏗️ Build meaningful projects
-🤝 Contribute to open-source projects
-💡 Explore different fields of computer science
-📈 Continuously improve my technical skills
-📂 Projects
-
-I'm currently in the learning phase and working toward building more projects.
-
-🚧 Coming Soon
-
-As I learn more, I'll be adding projects involving:
-
-C Programming
-Problem Solving
-Algorithms
-Mathematics
-Data Structures
-Other areas of Computer Science
-
-This section will grow along with my learning journey. 🚀
-
-📊 My Learning Journey
-C Programming
-██████░░░░░░  Beginner
-
-Mathematics
-███████░░░░░  Learning
-
-Problem Solving
-██████░░░░░░  Learning
-
-Computer Science
-█████░░░░░░░  Exploring
-
-Data Structures
-██░░░░░░░░░░  Future Goal
-
-🧠 How I Learn
-
-I believe that programming is not just about writing code.
-
-My approach is:
-
-Learn
-  ↓
-Understand
-  ↓
-Practice
-  ↓
-Make Mistakes
-  ↓
-Debug
-  ↓
-Understand the Mistake
-  ↓
-Try Again
-  ↓
-Improve
-
-
-Every mistake is an opportunity to understand something better.
-
-💡 Things I Enjoy
-📐 Mathematics
-
-I enjoy mathematical concepts, logical problems, and finding different ways to approach a problem.
-
-💻 Programming
-
-I'm interested in understanding how programs work and learning how to turn ideas into code.
-
-🧠 Problem Solving
-
-I enjoy challenges that require thinking, logic, and patience.
-
-📚 Learning
-
-I'm curious about new concepts and technologies and want to keep expanding my knowledge.
-
-🔭 What I Want to Explore
-
-As I progress through my MCA journey, I would like to explore:
-
-🧩 Data Structures & Algorithms
-🌐 Web Development
-🐍 Python
-☕ Java
-🗄️ Databases
-🤖 Artificial Intelligence
-🧠 Machine Learning
-🔐 Cybersecurity
-☁️ Cloud Computing
-🌐 Open Source
-⚙️ Software Development
-
-I don't want to limit myself to one area. I want to explore different fields and eventually discover what I enjoy working on the most.
-
-📚 Education
-🎓 Integrated Master of Computer Applications
-
-IIPS
-
-Currently studying in 1st Semester
-
-My current academic journey is helping me develop a foundation in:
-
-Mathematics
-Programming
-Computer Science
-Logical Reasoning
-Problem Solving
-🚀 My Roadmap
-                MY LEARNING ROADMAP
-
-                     START
-                       │
-                       ▼
-             ┌──────────────────┐
-             │ C Programming    │
-             │   Fundamentals   │
-             └────────┬─────────┘
-                      │
-                      ▼
-             ┌──────────────────┐
-             │ Problem Solving  │
-             │ & Logic Building │
-             └────────┬─────────┘
-                      │
-                      ▼
-             ┌──────────────────┐
-             │ Data Structures  │
-             │  & Algorithms    │
-             └────────┬─────────┘
-                      │
-                      ▼
-             ┌──────────────────┐
-             │ Build Projects   │
-             └────────┬─────────┘
-                      │
-                      ▼
-             ┌──────────────────┐
-             │ Learn More       │
-             │ Languages        │
-             └────────┬─────────┘
-                      │
-                      ▼
-             ┌──────────────────┐
-             │ Explore CS Fields│
-             └────────┬─────────┘
-                      │
-                      ▼
-                    🚀
-
-📈 Growth Mindset
-
-I'm not trying to know everything at once.
-
-I'm focusing on:
-
-Learning one concept → practicing it → understanding it → moving to the next.
-
-My GitHub is going to be a record of that journey.
-
-You'll see beginner programs, experiments, mistakes, improvements, and eventually larger projects.
-
-And that's exactly how I want it to be. 🚀
+---
 
 🌟 A Little More About Me
-🎓 Student          → Integrated MCA
-🏫 Institute        → IIPS
-📚 Semester         → 1st
-💻 Learning         → C Programming
-📐 Interest         → Mathematics
-🧠 Focus            → Problem Solving
-🌱 Mindset          → Keep Learning
-🚀 Goal             → Become a Better Programmer
+<p align="center">
+  <img src="./shivam.jpg" width="300" alt="Shivam Deshmukh"/>
+</p>
+<table align="center">
+<tr>
+<td>🎓 <b>Student</b></td>
+<td>Integrated MCA</td>
+</tr><tr>
+<td>🏫 <b>Institute</b></td>
+<td>IIPS</td>
+</tr><tr>
+<td>📚 <b>Semester</b></td>
+<td>1st Semester</td>
+</tr><tr>
+<td>💻 <b>Currently Learning</b></td>
+<td>C Programming</td>
+</tr><tr>
+<td>📐 <b>Interest</b></td>
+<td>Mathematics</td>
+</tr><tr>
+<td>🧠 <b>Focus</b></td>
+<td>Problem Solving</td>
+</tr><tr>
+<td>🌱 <b>Mindset</b></td>
+<td>Keep Learning</td>
+</tr><tr>
+<td>🚀 <b>Goal</b></td>
+<td>Become a Better Programmer</td>
+</tr>
+</table>---
+
+💻 Currently Exploring
+
+<p align="center"><img src="https://img.shields.io/badge/C-Programming-00599C?style=for-the-badge&logo=c&logoColor=white"/><img src="https://img.shields.io/badge/Mathematics-Problem%20Solving-4B8BBE?style=for-the-badge"/><img src="https://img.shields.io/badge/Computer-Science-Learning-58A6FF?style=for-the-badge"/></p><br><p align="center">
+  <img src="https://github.com/devicons/devicon/raw/master/icons/c/c-original.svg" width="100" height="100"/>
+</p>---
+
+🌱 My Programming Journey
+
+<p align="center">🌱 BEGINNER
+     │
+     ▼
+📚 LEARN
+     │
+     ▼
+🧠 PRACTICE
+     │
+     ▼
+🧩 SOLVE
+     │
+     ▼
+💻 BUILD
+     │
+     ▼
+🚀 GROW
+
+</p>«Every programmer starts somewhere.
+Mine starts with curiosity, consistency, and a single line of code. 💻»
+
+---
+
+🧠 What Interests Me?
+
+<p align="center">💻 Programming   •  
+📐 Mathematics   •  
+⚙️ Technology
+
+<br><br>
+
+🧠 Computer Science   •  
+🧩 Problem Solving   •  
+🌱 Learning New Things
+
+</p>---
 
 🤝 Let's Connect
 
 I'm always interested in meeting people who enjoy:
 
-Programming
-Mathematics
-Technology
-Computer Science
-Problem Solving
-Learning new things
+- 💻 Programming
+- 📐 Mathematics
+- ⚙️ Technology
+- 🧠 Computer Science
+- 🧩 Problem Solving
+- 🌱 Learning new things
 
-If you're also starting your programming journey, feel free to connect and learn together! 🤝
+«If you're also starting your programming journey, let's connect, learn, and grow together! 🤝🚀»
+
+---
 
 💭 Favorite Thought
 
-"The journey of a programmer starts with a single line of code."
+<p align="center">"The journey of a programmer starts with a single line of code."
 
-I'm just starting mine. 💻🚀
+💻 I'm just starting mine. 🚀
+
+</p>---
+
+🎯 My Current Focus
+
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=800&color=00D9FF&center=true&vCenter=true&width=800&lines=Learning+C+Programming...;Building+Strong+Fundamentals...;Improving+Problem+Solving...;Exploring+Mathematics...;Understanding+Computer+Science...;Becoming+a+Better+Programmer...+🚀" /></p>---
+
+🌟 My Learning Philosophy
+
+Learn something new. 📚
+        ↓
+Practice consistently. 💻
+        ↓
+Make mistakes. ❌
+        ↓
+Understand them. 🧠
+        ↓
+Try again. 🔄
+        ↓
+Improve every day. 🌱
+
+---
 
 ⭐ Thank You for Visiting!
 
-Thanks for taking the time to visit my GitHub profile.
+Thanks for taking the time to visit my GitHub profile. 🙌
 
 I'm still at the beginning of my journey, but I'm excited about what comes next.
 
-Keep learning. Keep building. Keep improving. 🌱
+I may not know everything yet.
 
-🚀 Let's see where this journey takes me!
+I may make mistakes.
+
+I may get stuck.
+
+But I will keep learning. 🌱
+
+I will keep building. 💻
+
+And I will keep improving. 🚀
+
+---
+
+<h2 align="center">🚀 Let's see where this journey takes me!</h2><br><p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Keep+Learning+🌱;Keep+Building+💻;Keep+Improving+🚀;Never+Stop+Exploring+✨" />
+</p><br><p align="center">
+⭐ Thanks for visiting my profile! ⭐
+</p><p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:00D9FF&height=120&section=footer"/>
+</p>
