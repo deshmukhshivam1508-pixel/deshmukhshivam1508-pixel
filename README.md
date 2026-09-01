@@ -1,4 +1,4 @@
-👋 Hey there, I'm Abitnas!
+👋 Hey there,
 🎓 Integrated MCA Student | 💻 C Programming Learner | 📐 Mathematics Enthusiast | 🌱 Lifelong Learner
 
 Welcome to my GitHub profile! 🚀
